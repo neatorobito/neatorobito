@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mark. 👋🏾 Here's a little bit about me:
+I build apps, sdks, and services for Windows, web, and more.
 
-<!--
-**neatorobito/neatorobito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've worked in software engineering for many years. I save people time and help eliminate toil by building quality, reliable tools. I’m a firm believer in the idea that technology always helps people work smarter, not harder, but only when built with attention to detail and empathy for users.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+art credit: @mfxdraws
+
+
+
+“Never be limited by other people's limited imaginations. If you adopt their attitudes, then the possibility won't exist because you'll have already shut it out... You can hear other people's wisdom, but you've got to re-evaluate the world for yourself.” 
+
+―  Mae C. Jemison 
