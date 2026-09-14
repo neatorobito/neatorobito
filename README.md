@@ -1,5 +1,5 @@
-# Hi, I'm Mark. 👋🏾 Here's a little bit about me:
-I build apps, sdks, and services for Windows, web, and more.
+# Hi, I'm Mark. 👋🏾 Here's a little bit about me.
+I build software for Windows, web, and more.
 
 I've worked in software engineering for many years. I save people time and help eliminate toil by building quality, reliable tools. I’m a firm believer in the idea that technology always helps people work smarter, not harder, but only when built with attention to detail and empathy for users.
 
